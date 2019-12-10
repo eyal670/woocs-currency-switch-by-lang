@@ -1,4 +1,4 @@
-# Woocs Currency Switch by Lang wordpress plugin
+# Woocs Currency Switch by Lang - plugin for wordpress
 
 * **Please install first the WOOCS plugin: https://wordpress.org/plugins/woocommerce-currency-switcher/**
 
