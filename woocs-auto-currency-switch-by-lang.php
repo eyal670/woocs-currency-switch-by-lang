@@ -6,6 +6,7 @@ Author: Eyal670
 Developer: Eyal Ron
 version: 1.0
 License: MIT
+github repo: https://github.com/eyal670/woocs-currency-switch-by-lang
 @create date 2019-12-10 09:41:59
 @modify date 2019-12-10 10:55:04
 */
